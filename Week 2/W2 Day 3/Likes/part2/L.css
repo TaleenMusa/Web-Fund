@@ -1,0 +1,104 @@
+* {
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+.nav {
+    background-color: black;
+    color: white;
+    width: 60%;
+    height: 50px;
+    padding-top: 10px;
+}
+
+.navtext {
+    padding-left: 25px;
+}
+
+.text2 {
+    margin-bottom: 15px;
+    font-size: larger;
+}
+
+.text {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.Main {
+    display: flex;
+    width: 60%;
+    margin-top: 10px;
+}
+
+.Box1 {
+    height: 180px;
+    width: 100px;
+    flex: 1;
+    border: 3px solid black;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.Box2 {
+    flex: 2;
+    margin-left: 30px;
+}
+
+#insidebox2 {
+    padding: 10px;
+    width: 500px;
+    height: 90px;
+    border: 3px solid black;
+    margin-bottom: 10px;
+}
+
+.part1 {
+    font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.part2 {
+    font-weight: bold;
+    padding: 15px;
+    padding-left: 50px;
+    justify-content: flex-start;
+}
+
+.likebtn {
+    padding: 4px 20px 4px 20px;
+    background-color: #ffd966;
+    border: 4px solid black;
+    box-shadow: 4px 4px black;
+}
+
+.c2,
+.c3,
+.c4 {
+    display: flex;
+}
+
+.c2 button {
+    background-color: #ffd966;
+    border: 2px solid black;
+    box-shadow: 0px 8px 8px black;
+}
+
+.c3 button {
+    background-color: #ffd966;
+    border: 2px solid black;
+    box-shadow: 0px 8px 8px black;
+}
+
+.c4 button {
+    background-color: #ffd966;
+    border: 2px solid black;
+    box-shadow: 0px 8px 8px black;
+}

@@ -1,0 +1,36 @@
+.btn,
+.btn2,
+.btn3 {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: gainsboro;
+    color: rgba(0, 128, 0, 0.918);
+    text-decoration: none;
+    border-radius: 40px;
+    border-color: green;
+    padding: 8px 50px;
+    text-align: left;
+}
+
+.btn2 {
+    background-color: #00d1b2;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    border-color: #00d1b2;
+    border-bottom: #00d1b2;
+    padding: 15px 15px;
+
+}
+
+.btn3 {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 20px 50px;
+    text-align: center;
+    box-shadow: 10px 5px 5px rgb(14, 4, 4);
+
+}

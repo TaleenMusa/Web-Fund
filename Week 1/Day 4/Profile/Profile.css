@@ -1,0 +1,177 @@
+
+    .topnav {
+        background-color: #333;
+        overflow: hidden;
+        margin-right: 20px;
+    }
+
+    .topnav a {
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+        display: inline-block;
+    }
+
+    .active {
+        margin-left: 180px;
+        color: #f2f2f2;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 35px;
+        display: inline-block;
+    }
+
+    .topnav a.active2 {
+        color: white;
+    }
+
+    .btn {
+        justify-content: flex-end;
+        align-items: center;
+        justify-content: flex-end;
+        float: right;
+        background-color: #17a2b8;
+        color: white;
+        width: 100px;
+        height: 30px;
+        margin-top: 20px;
+        margin-right: 180px;
+    }
+
+    .container {
+        border: 1px solid black;
+        margin-top: 15px;
+        margin-left: 200px;
+        margin-right: 200px;
+        display: flex;
+    }
+
+    .box1 {
+        width: 400px;
+        height: 300px;
+        border: 1px solid;
+        background-color: white;
+    }
+
+    .top {
+        background-color: rgb(23, 162, 184);
+        width: 400px;
+        height: 70px;
+    }
+
+    .user-image {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        position: relative;
+        top: -40px;
+        left: 40px;
+    }
+
+    .username {
+        font-size: 30px;
+        margin-top: -5vh;
+        padding-left: 40px;
+        margin-bottom: -10px;
+    }
+
+    .picon {
+        display: flex;
+        width: 80px;
+        padding-bottom: 0px;
+    }
+
+    .Location {
+        margin-top: 1vh;
+    }
+
+    .icon {
+        width: 15px;
+        margin-right: 20px;
+        padding-left: 40px;
+    }
+
+    .p {
+        font-weight: 80;
+        padding-left: 40px;
+    }
+
+    .link {
+        margin-bottom: 5px;
+
+    }
+
+    .box2 {
+        width: 400px;
+        height: 200px;
+        border: 1px solid;
+        background-color: white;
+        margin-top: 30px;
+    }
+
+    .h1 {
+        background-color: black;
+        color: white;
+        padding-left: 40px;
+        margin-top: 0px;
+    }
+
+    .h23p {
+        padding-left: 30px;
+    }
+
+    .box3 {
+        width: 300px;
+        height: 200px;
+        border: 1px solid;
+        background-color: white;
+        margin-top: 30px;
+    }
+
+    .Num2 {
+        border-radius: 50%;
+        margin-right: 10px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    .Num3 {
+        border-radius: 50%;
+        margin-right: 0px;
+        margin-top: 10px;
+        margin-left: 80px;
+
+    }
+
+    .headb3 {
+        background-color: black;
+        color: white;
+        margin-top: 0px;
+        font-size: large;
+        padding-left: 10px;
+        padding-bottom: 20px;
+    }
+
+    .pbox3 {
+        padding-bottom: 20px;
+    }
+
+    .box4 {
+        width: 300px;
+        height: 400px;
+        border: 1px solid;
+        background-color: white;
+        margin-top: 30px;
+    }
+
+    .headb4 {
+        background-color: black;
+        color: white;
+        margin-top: 0px;
+        font-size: large;
+        padding-left: 10px;
+        padding-bottom: 20px;
+    }

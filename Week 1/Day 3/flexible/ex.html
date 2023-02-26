@@ -1,0 +1,9 @@
+var angleClock = function(hour, minutes) {
+    var degreeperminute = 360/60
+    var degreeperhour = 360/12
+    var a = minutes*degreeperminute
+    var b = hour* degreeperhour + (minutes/60)*degreeperhour;
+    var degree = math.abs(a-b)
+    return Math.min(degree, 360-degree);
+    
+};

@@ -1,0 +1,21 @@
+#calculator {
+    border: 2px solid black;
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    background-color: rgb(215, 213, 213);
+
+}
+
+.row button {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+
+
+#equals {
+    width: 80px;
+    background-color: orange;
+}
